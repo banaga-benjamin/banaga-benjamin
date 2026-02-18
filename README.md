@@ -1,32 +1,20 @@
 # Benjamin Banaga
 
-A passionate **Software Engineer**, **Backend Engineer**, and **Data Scientist** with a strong interest in AI, Machine Learning, and Competitive Programming. Currently devoting my attention in enriching my Zettelkasten.
+A passionate **Software Engineer**, **Backend Engineer**, and **Data Scientist** with a strong interest in Artificial Intelligence, Software Development, and Algorithmics. Currently devoting my attention in enriching my Zettelkasten.
 
 ---
 
-## 🚀 About Me
-
-- **Roles:**  
-  Software Engineer | Backend Engineer | Data Scientist
-
-- **Interests:**  
-  AI & Machine Learning, Competitive Programming, and all things related to my core roles.
-
----
-
-## 🛠️ Skills
+## Skill Set
 
 - **Languages & Frameworks:**  
-  - Java (Spring Framework)  
-  - Python (Django, PyTorch)
+  - Java       (Spring Boot)
+  - Javascript (TypeScript, NodeJS)  
+  - Python     (Django, FastAPI, PyTorch, NumPy, pandas, matplotlib, seaborn)
 
-- **Databases:**  
-  - MySQL  
-  - PostgreSQL
-
-- **Tools:**  
+- **Tools & Databases:**  
   - Git & GitHub  
   - Visual Studio Code
+  - MySQL & PostgreSQL
 
 ---
 
@@ -39,10 +27,10 @@ A passionate **Software Engineer**, **Backend Engineer**, and **Data Scientist**
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- **LinkedIn:** [benjamin-banaga-arlantico](https://www.linkedin.com/in/benjamin-banaga-arlantico/)
 - **Email:** banaga.benjaminarlantico@gmail.com
+- **LinkedIn:** [benjamin-banaga-arlantico](https://www.linkedin.com/in/benjamin-banaga-arlantico/)
 
 ---
 
