@@ -1,20 +1,20 @@
 # Benjamin Banaga
 
-A passionate **Software Engineer**, **Backend Engineer**, and **Data Scientist** with a strong interest in Artificial Intelligence, Software Development, and Algorithmics. Currently devoting my attention in enriching my Zettelkasten.
+**Software Engineer** with a focus on **Backend Engineering** and **Cloud Computing**. Currently exploring Networking, Cloud Computing, and Systems Design.
 
 ---
 
 ## Skill Set
 
-- **Languages & Frameworks:**  
+- **Programming Languages:**  
   - Java       (Spring Boot)
   - Javascript (TypeScript, NodeJS)  
-  - Python     (Django, FastAPI, PyTorch, NumPy, pandas, matplotlib, seaborn)
+  - Python     (Backend Development Frameworks | Data Science Libraries | Machine Learning Libraries)
 
-- **Tools & Databases:**  
-  - Git & GitHub  
-  - Visual Studio Code
-  - MySQL & PostgreSQL
+- **Databases & Platforms:**  
+  - Git, GitHub, GitLab, and Azure DevOps
+  - MySQL, PostGreSQL, MongoDB, and Redis
+  - AwS, GCP, and Azure
 
 ---
 
