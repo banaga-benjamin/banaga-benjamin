@@ -11,10 +11,16 @@
   - Javascript (TypeScript, NodeJS)  
   - Python     (Backend Development Frameworks | Data Science Libraries | Machine Learning Libraries)
 
-- **Databases & Platforms:**  
-  - Git, GitHub, GitLab, and Azure DevOps
-  - MySQL, PostGreSQL, MongoDB, and Redis
-  - AwS, GCP, and Azure
+- **Cloud Computing, Containerizaton**
+  - AWS, GCP, and Azure Cloud
+  - Docker and Kubernetes
+  - Terraform
+ 
+- **SQL and Databases:**
+  - redis, MySQL, MongoDB, PostGreSQL
+
+- **Version Control Platforms**
+  - Git, GitHub, GitLab, Azure DevOps
 
 ---
 
